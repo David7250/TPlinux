@@ -19,6 +19,7 @@ Getfacl data
 ![Capture getfacl data](https://github.com/user-attachments/assets/0fa9ea8f-57ea-43bf-b425-326676bf972d)
 Journal sudo
 ![Capture journal sudo](https://github.com/user-attachments/assets/75e43414-51e6-48f1-891a-470e5519cf1c)
+
 LVM
 ![Capture LVM](https://github.com/user-attachments/assets/c0218d85-02f5-45d8-8587-c6f3939fcbdb)
 Config PAM

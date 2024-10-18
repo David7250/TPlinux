@@ -34,4 +34,5 @@ Sudoers
 ufw status
 ![Capture ufw statut](https://github.com/user-attachments/assets/c1e1f395-c854-44c8-8482-49ff9e81d774)
 Cron monitoring.sh
-![Capture cron monitoring sh](https://github.com/user-attachments/assets/47442fbb-88bd-43aa-baf5-ac083971338d)
+
+![Capture cron monitoring sh](https://github.com/user-attachments/assets/e4d1b48e-e8de-41ea-abc8-c192bf5547f1)

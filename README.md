@@ -33,3 +33,5 @@ Sudoers
 ![Capture sudoers](https://github.com/user-attachments/assets/b24e77c5-d447-4641-8049-72680256f60b)
 ufw status
 ![Capture ufw statut](https://github.com/user-attachments/assets/c1e1f395-c854-44c8-8482-49ff9e81d774)
+Cron monitoring.sh
+![Capture cron monitoring sh](https://github.com/user-attachments/assets/47442fbb-88bd-43aa-baf5-ac083971338d)

@@ -51,3 +51,6 @@ Cron monitoring.sh
 
 CRON sauvegarde quotidienne
 ![Capture cron sauvegarde quotidienne](https://github.com/user-attachments/assets/f2e7a89c-dca0-4d54-97f3-241889c2e117)
+
+Nettoyage toutes les heures
+![Capture nettoyage toute les heures](https://github.com/user-attachments/assets/a9534052-7eff-4a1c-a930-bf698d0201d2)

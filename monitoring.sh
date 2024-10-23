@@ -22,7 +22,7 @@ echo "LVM actif"
 lvscan
 
 echo "Nombre de connexion active"
-netstat -taupn
+who | wc -l
 
 echo "Nombre d'utilisateur du serveur"
 wc -l /etc/passwd
